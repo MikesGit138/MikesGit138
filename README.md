@@ -17,7 +17,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I watch tech videos; keeping up to date with the dev community.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: <a href="your-linkedin-URL">
+      <img src="https://www.linkedin.com/in/michael-leighton-354b921a4/" target="_blank" alt="LinkedIn Badge"/>
+    </a>
 
 ---
 
