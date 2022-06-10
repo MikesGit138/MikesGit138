@@ -1,6 +1,6 @@
 ### 
 <div id="header" align="center">
-  <h1>Hi there</h1>
+  <h1>Welcome to my Projects Profile!</h1>
   </div>
   <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -10,7 +10,7 @@
 
 ---
 
-### :About Me :
+### About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica.
 - :telescope: I’m a student at the Amber Coding Academy 
 - :seedling: Learning Node JS and Express JS.
@@ -20,6 +20,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/michael-leighton-354b921a4/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
     </a>
+    <a href="michael138leighton@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" target="_blank" width="50" height = "30" alt="gmail badge">
+  </a>
 
 ---
 
