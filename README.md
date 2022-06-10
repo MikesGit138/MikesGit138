@@ -10,7 +10,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica.
 - :telescope: I’m a student at the Amber Coding Academy 
 - :seedling: Learning Node JS and Express JS.
