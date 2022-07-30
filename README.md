@@ -13,7 +13,7 @@
 ### About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica.
 - :telescope: I’m a student at the Amber Coding Academy 
-- :seedling: Learning MEAN Stack.
+- :seedling: Learning MEAN Stack and Python
 
 - :zap: In my free time, I watch tech videos; keeping up to date with the dev community.
 
