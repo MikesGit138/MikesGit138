@@ -11,11 +11,11 @@
 ---
 
 ### About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica.
-- :telescope: I’m a student at the Amber Coding Academy 
-- :seedling: Learning MEAN Stack, Ionic and Python
+I am a MEAN Stack Developer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href='https://myambergroup.com/'>Amber Group</a>.
+- :telescope: I’m a CS student at <a href = 'https://www.uwi.edu/'>U.W.I</a>
+- :seedling: Learning <a href = 'https://ionicframework.com/'>Ionic</a> and <a href= 'https://www.python.org/'>Python</a>
 
-- :zap: In my free time, I watch tech videos; keeping up to date with the dev community.
+- :zap: In my free time I watch dev related youtubers; my favourites include <a href='https://www.youtube.com/c/Fireship'>Fireship</a> and <a href='https://www.youtube.com/c/FryingPan'>FryingPan</a>.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/michael-leighton-354b921a4/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
@@ -43,6 +43,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" width="60" height="60"> 
+  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50" height="50"> 
+  
 </div>
 
 ---
