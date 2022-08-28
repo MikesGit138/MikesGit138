@@ -15,7 +15,7 @@ I am a MEAN Stack Developer Intern <img src="https://media.giphy.com/media/WUlpl
 - :telescope: I’m a CS student at <a href = 'https://www.uwi.edu/'>U.W.I</a>
 - :seedling: Learning <a href = 'https://ionicframework.com/'>Ionic</a> and <a href= 'https://www.python.org/'>Python</a>
 
-- :zap: In my free time I watch dev related youtubers; my favourites include <a href='https://www.youtube.com/c/Fireship'>Fireship</a> and <a href='https://www.youtube.com/c/FryingPan'>FryingPan</a>.
+- :zap: In my free time I watch dev related youtubers; my favourites include: <a href='https://www.youtube.com/c/Fireship'>Fireship</a> and <a href='https://www.youtube.com/c/FryingPan'>FryingPan</a>.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/michael-leighton-354b921a4/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
