@@ -11,7 +11,7 @@
 ---
 
 ### About Me :
-I am a Frontend Developer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href='https://myambergroup.com/'>Amber Group</a>.
+I am a Web Developer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href='https://myambergroup.com/'>Amber Group</a>.
 - :telescope: I’m a CS student at <a href = 'https://www.uwi.edu/'>U.W.I</a>
 - :seedling: Learning <a href = 'https://ionicframework.com/'>Ionic</a> and <a href= 'https://www.python.org/'>Python</a>
 
