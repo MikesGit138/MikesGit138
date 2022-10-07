@@ -12,7 +12,7 @@
 
 ### About Me :
 I am a Web Developer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href='https://myambergroup.com/'>Amber Group</a>.
-- :telescope: I’m a Computer Science student at <a href = 'https://www.uwi.edu/'>U.W.I</a>
+- :telescope: I study Computer Science student <a href = 'https://www.uwi.edu/'>U.W.I</a>
 - :seedling: Learning <a href='https://flutter.dev/'>Flutter</a> and <a href= 'https://www.python.org/'>Python</a>
 
 - :zap: In my free time I watch dev related youtubers; my favourites include: <a href='https://www.youtube.com/c/Fireship'>Fireship</a> and <a href='https://www.youtube.com/c/FryingPan'>FryingPan</a>.
