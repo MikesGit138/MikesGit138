@@ -12,8 +12,8 @@
 
 ### About Me :
 I am a Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Computer Science student:
-- :zap: Specialized in frontend development with <a href='https://angular.io/'>Angular</a>
-- 🔭 Exploring server-side development with [Express.js](https://expressjs.com/) and Mobile App Development with <a href='https://flutter.dev/'>Flutter</a>
+- :zap: Specialized in Frontend Development with <a href='https://angular.io/'>Angular</a>
+- 🔭 Exploring Server-side Development with [Express.js](https://expressjs.com/) and Mobile App Development with <a href='https://flutter.dev/'>Flutter</a>
 - :seedling: Learning Algorithms and Data-Structures with <a href= 'https://www.python.org/'>Python</a>
 
 
