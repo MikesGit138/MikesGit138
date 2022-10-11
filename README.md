@@ -11,11 +11,11 @@
 ---
 
 ### About Me :
-I am a Web Developer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href='https://myambergroup.com/'>Amber Group</a>.
-- :telescope: I am a Computer Science student at <a href = 'https://www.uwi.edu/'>U.W.I</a>
-- :seedling: Learning <a href='https://flutter.dev/'>Flutter</a> and <a href= 'https://www.python.org/'>Python</a>
+I am a Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Computer Science student:
+- :zap: Specialized in frontend development with <a href='https://angular.io/'>Angular</a>
+- 🔭 Exploring server-side development with [Express.js](https://expressjs.com/) and Mobile App Development with <a href='https://flutter.dev/'>Flutter</a>
+- :seedling: Learning Algorithms and Data-Structures with <a href= 'https://www.python.org/'>Python</a>
 
-- :zap: In my free time I watch dev related youtubers; my favourites include: <a href='https://www.youtube.com/c/Fireship'>Fireship</a> and <a href='https://www.youtube.com/c/FryingPan'>FryingPan</a>.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/michael-leighton-354b921a4/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
