@@ -11,9 +11,10 @@
 ---
 
 ### About Me :
-I am a Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Computer Science student:
-- :zap: Specialized in Frontend Development with <a href='https://angular.io/'>Angular</a>
-- 🔭 Exploring Server-side Development with [NestJS](https://nestjs.com/) and [ExpressJS](https://expressjs.com/)
+I am a Web Developer and Computer Science student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
+- :zap: Practice Frontend Development with <a href='https://angular.io/'>Angular</a>
+- ⚡ Practice Server-side Development with [ExpressJS](https://expressjs.com/)
+- 🔭 Exploring Server-side Development with [NestJS](https://nestjs.com/)
 - :seedling: Learning Algorithms and Data-Structures with <a href= 'https://www.python.org/'>Python</a>
 
 
