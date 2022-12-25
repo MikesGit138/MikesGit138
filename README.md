@@ -16,6 +16,7 @@ I am a Web Developer and Computer Science student<img src="https://media.giphy.c
 - ⚡ Practice Server-side Development with [ExpressJS](https://expressjs.com/)
 - 🔭 Exploring Server-side Development with [NestJS](https://nestjs.com/)
 - :seedling: Learning Algorithms and Data-Structures with <a href= 'https://www.python.org/'>Python</a>
+- :seedling: Learning Object Oriented Programming with [Java](https://dev.java/)
 
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/michael-leighton-354b921a4/">
