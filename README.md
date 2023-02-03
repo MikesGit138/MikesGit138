@@ -46,6 +46,7 @@ I am a Web Developer and Computer Science student<img src="https://media.giphy.c
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" width="60" height="60"> 
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50" height="50"> 
+  <img src='https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png' width='100' height='100'>
 </div>
 
 ---
