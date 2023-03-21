@@ -11,10 +11,10 @@
 ---
 
 ### About Me :
-I am a Web Developer and Computer Science student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
+I am a Software Developer and Computer Science student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 - :zap: Practicing Frontend Development with <a href='https://angular.io/'>Angular</a>
 - ⚡ Practicing Server-side Development with [ExpressJS](https://expressjs.com/)
-- 🔭 Exploring Server-side Development with [NestJS](https://nestjs.com/)
+- 🔭 Exploring Server-side Development with [Play](https://www.playframework.com/)
 - :seedling: Learning Algorithms and Data-Structures with <a href= 'https://www.python.org/'>Python</a>
 - :seedling: Learning Object Oriented Programming with [Java](https://dev.java/)
 
@@ -47,6 +47,7 @@ I am a Web Developer and Computer Science student<img src="https://media.giphy.c
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" width="60" height="60"> 
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50" height="50"> 
   <img src='https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png' width='100' height='100'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Play_Framework_logo.svg/2560px-Play_Framework_logo.svg.png' width='50' height='50'>
 </div>
 
 ---
