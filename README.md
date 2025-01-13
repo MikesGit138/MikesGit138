@@ -14,7 +14,7 @@
 I am a Software Developer and Computer Science student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 - :zap: Practicing Frontend Development with <a href='https://angular.io/'>Angular</a>
 - 🔭 Exploring Server-side Development with [Play](https://www.playframework.com/)
-- :seedling: Learning Algorithms and Data-Structures with <a href= 'https://www.python.org/'>Python</a>
+- :seedling: Learning Algorithms and Data-Structures with <a>Java</a>
 
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/michael-leighton-354b921a4/">
